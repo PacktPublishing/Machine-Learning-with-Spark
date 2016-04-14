@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.spark:spark-core_2.9.3:0.8.1-incubating-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.9.3/0.8.1-incubating-SNAPSHOT/spark-core_2.9.3-0.8.1-incubating-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.9.3/0.8.1-incubating-SNAPSHOT/spark-core_2.9.3-0.8.1-incubating-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.9.3/0.8.1-incubating-SNAPSHOT/spark-core_2.9.3-0.8.1-incubating-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

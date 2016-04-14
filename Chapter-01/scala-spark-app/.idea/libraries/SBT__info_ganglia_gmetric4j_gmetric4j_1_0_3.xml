@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SBT: info.ganglia.gmetric4j:gmetric4j:1.0.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/info.ganglia.gmetric4j/gmetric4j/jars/gmetric4j-1.0.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

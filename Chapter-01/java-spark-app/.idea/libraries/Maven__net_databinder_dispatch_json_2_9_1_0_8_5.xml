@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: net.databinder:dispatch-json_2.9.1:0.8.5">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/databinder/dispatch-json_2.9.1/0.8.5/dispatch-json_2.9.1-0.8.5.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/net/databinder/dispatch-json_2.9.1/0.8.5/dispatch-json_2.9.1-0.8.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/databinder/dispatch-json_2.9.1/0.8.5/dispatch-json_2.9.1-0.8.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

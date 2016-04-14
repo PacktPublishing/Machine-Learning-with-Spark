@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="SBT: SBT: org.apache.spark:spark-core_2.9.3:0.8.1-incubating">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/local/org.apache.spark/spark-core_2.9.3/0.8.1-incubating/jars/spark-core_2.9.3.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.ivy2/local/org.apache.spark/spark-core_2.9.3/0.8.1-incubating/docs/spark-core_2.9.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/local/org.apache.spark/spark-core_2.9.3/0.8.1-incubating/srcs/spark-core_2.9.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

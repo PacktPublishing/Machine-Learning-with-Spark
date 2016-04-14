@@ -1,0 +1,7 @@
+This code is for Chapter 10 of Machine Learning with Spark.
+
+The files included are:
+
+1. scala-spark-streaming app/ - Directory containing a Scala project that can be built and run using SBT
+
+See the relevant code files and the chapter for more information.

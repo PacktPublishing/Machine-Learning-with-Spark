@@ -1,3 +1,7 @@
+## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/B05184?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
+-----
+For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
+
 # Machine Learning with Spark
 Thanks for downloading the code repository for the book, [Machine Learning with Spark] (https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-spark?utm_source=github&utm_medium=repository&utm_campaign=9781783288519), published by [Packt Publishing] (https://www.packtpub.com/?utm_source=github&utm_medium=repository&utm_campaign=9781783288519) in February 2015.
 
